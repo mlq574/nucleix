@@ -31,7 +31,7 @@ poc扫描状态
 ![](https://s3.bmp.ovh/imgs/2022/04/08/12e48cb51ac138a4.png)
 #### POC列表
 对nuclei的poc进行可视化管理
-![](image/https://s3.bmp.ovh/imgs/2022/04/08/0c6436b4df4d2083.png)
+![](https://s3.bmp.ovh/imgs/2022/04/08/0c6436b4df4d2083.png)
 #### 请求记录
 记录被动扫描采集到的原始url，供POC扫描使用
 ![](https://s3.bmp.ovh/imgs/2022/04/08/3221ecbf3a7202b2.png)
